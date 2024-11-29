@@ -1,0 +1,11 @@
+{
+    "name": "محلل النصوص العربية",
+    "id": "iuy8jn2n9-project_manager",
+    "version": "1.0.0",
+    "description": "إضافة لتحليل النصوص العربية وعرض إحصائيات عنها",
+    "category": "development",
+    "author": "فريق رحلة",
+    "main": "main.py",
+    "icon": "icon.png",
+    "requires": {}
+}
