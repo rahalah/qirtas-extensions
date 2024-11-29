@@ -1,0 +1,11 @@
+{
+    "name": "موثق الكود",
+    "id": "dauy72jh7g-code_documenter",
+    "version": "1.0.0",
+    "description": "أداة لتوثيق وشرح الكود بشكل تفاعلي",
+    "category": "development",
+    "author": "فريق قرطاس",
+    "main": "main.py",
+    "icon": "icon.png",
+    "requires": {}
+}
