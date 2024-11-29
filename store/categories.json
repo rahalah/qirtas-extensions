@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "id": "text-processing",
+            "name": "معالجة النصوص",
+            "description": "إضافات لمعالجة وتحليل النصوص"
+        },
+        {
+            "id": "formatting",
+            "name": "التنسيق",
+            "description": "إضافات لتنسيق النصوص والكود"
+        },
+        {
+            "id": "tools",
+            "name": "أدوات",
+            "description": "أدوات مساعدة متنوعة"
+        }
+    ]
+}
