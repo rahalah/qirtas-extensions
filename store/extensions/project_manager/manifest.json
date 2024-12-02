@@ -1,11 +1,20 @@
 {
-    "name": "محلل النصوص العربية",
-    "id": "iuy8jn2n9-project_manager",
+    "name": "مدير المشاريع",
+    "id": "project-manager",
     "version": "1.0.0",
-    "description": "إضافة لتحليل النصوص العربية وعرض إحصائيات عنها",
+    "description": "إدارة ملفات ومجلدات المشروع",
     "category": "development",
-    "author": "فريق رحلة",
+    "author": "فريق قرطاس",
     "main": "main.py",
     "icon": "icon.png",
-    "requires": {}
+    "requires": {},
+    "platform": {
+        "windows": true,
+        "linux": false,
+        "macos": false
+    },
+    "app_version": {
+        "min": "1.0.0",
+        "max": "2.0.0"
+    }     
 }

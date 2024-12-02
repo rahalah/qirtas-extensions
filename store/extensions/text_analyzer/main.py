@@ -309,7 +309,14 @@ class Extension:
         current_editor = self.editor.get_current_editor()
         if not current_editor:
             return
-            
+    
+    def get_context_menu_items(self):
+        """إضافة عناصر القائمة المنبثقة"""
+        return [{
+            'name': 'تحليل النص',
+            'callback': self.analyze_text,
+            'shortcut': 'Ctrl+Alt+A'
+        }]
         text = current_editor.toPlainText()
         dialog = AnalysisDialog(text, self.editor)
         dialog.exec_()
