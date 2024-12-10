@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "إدارة ملفات ومجلدات المشروع",
     "category": "development",
-    "author": "فريق قرطاس",
+    "author": "فريق رحلة",
     "main": "main.py",
     "icon": "icon.png",
     "requires": {},

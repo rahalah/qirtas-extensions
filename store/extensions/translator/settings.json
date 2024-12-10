@@ -1,8 +1,8 @@
 {
     "source_lang": "auto",
     "target_lang": "ar",
-    "api_key": "",
-    "max_threads": 9,
-    "max_chunk_size": 5000,
-    "live_translation": true
+    "max_threads": 4,
+    "max_chunk_size": 1000,
+    "key_pattern": "",
+    "text_pattern": ""
 }
