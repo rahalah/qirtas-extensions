@@ -7,7 +7,6 @@
     "author": "فريق رحلة",
     "main": "text_replacer_ck3.py",
     "icon": "icon.png",
-c
     "platform": {
         "windows": true,
         "linux": false,
